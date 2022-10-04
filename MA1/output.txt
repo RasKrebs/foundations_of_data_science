@@ -1,0 +1,29 @@
+Students:
+Jacob Hansen
+William Fatcher
+John Doe
+Doe John
+
+Courses:
+Python Programming Course
+Data Mining and Machine Learning Course
+Visual Analytics
+Text Analytics
+
+ Jacob Grades:
+{'Python Programming Course': ['Pass', 'Pass', 'Pass', 'Pass', 'Pass'], 'Data Mining and Machine Learning Course': ['Pass', 'Pass', 'Pass', 'Pass', 'Pass'], 'Visual Analytics': ['Pass', 'Pass', 'Pass', 'Pass', 'Pass'], 'Text Analytics': ['Fail', 'Fail', 'Fail', 'Fail', 'Fail']}
+
+ Doe Grades:
+{'Python Programming Course': ['Pass', 'Pass', 'Pass', 'Pass', 'Pass'], 'Data Mining and Machine Learning Course': ['Pass', 'Pass', 'Pass', 'Pass', 'Pass'], 'Visual Analytics': ['Pass', 'Pass', 'Pass', 'Pass', 'Pass'], 'Text Analytics': ['Pass', 'Pass', 'Pass', 'Pass', 'Pass']}
+
+ Jacob passed courses:
+['Python Programming Course', 'Data Mining and Machine Learning Course', 'Visual Analytics']
+
+ Doe passed courses:
+['Python Programming Course', 'Data Mining and Machine Learning Course', 'Visual Analytics', 'Text Analytics']
+
+ Passed who passed with distinction under data science diploma program:
+['John Doe', 'Doe John']
+
+ List of students who faild under data science diploma program:
+['Jacob Hansen', 'William Fatcher']
